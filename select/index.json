@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ポリコ",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-02-14T15:06:40.613203Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ポリコ",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/01_ポリコ_Creep_Hyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポリコ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_ポリコ_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ポリコ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_02_ポリコ_クリープハイプ.txt"
+    }
+  ]
+}
